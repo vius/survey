@@ -27,6 +27,14 @@ class HomeController extends Controller {
     }
 
   }
+  router(){
+    const {
+      ctx
+    } = this;
+    let oldPath = ctx.request.url;
+    let newPth = '/public'+oldPath
+    ctx.redirect(newPth)
+  }
 }
 
 module.exports = HomeController;

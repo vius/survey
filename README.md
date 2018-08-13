@@ -16,6 +16,11 @@
 
 > FE(前端)
 * 地址：localhost:7001/public/index.html
+* 如果指向看前端页面 可以执行以下命令
+  * npm i anywhere (如果已经安装则跳过)
+  * cd public
+  * anywhere
+  
 
 > server(后端)
 * 安装数据库 mysql
