@@ -1,6 +1,8 @@
 'use strict';
 
 const Controller = require('egg').Controller;
+const fs = require('fs');
+var path = require("path");
 
 class HomeController extends Controller {
   async index() {
@@ -25,15 +27,29 @@ class HomeController extends Controller {
       console.log(err)
       ctx.response.status = 500
     }
-
   }
-  router(){
+  router() {
     const {
       ctx
     } = this;
     let oldPath = ctx.request.url;
-    let newPth = '/public'+oldPath
-    ctx.redirect(newPth)
+    oldPath = oldPath === '/' ? '/index.html' : oldPath
+    let newPth = '/public' + oldPath;
+    let file = path.join(__dirname, '../', newPth)
+    let exist = fs.existsSync(file)
+    if (exist) {
+      ctx.redirect(newPth)
+    } else {}
+  }
+  async getJson() {
+    const {
+      ctx,
+      app
+    } = this;
+    let file = path.join(__dirname,'../../','question.json')
+    let data = fs.readFileSync(file).toString();
+    let res = data
+    this.ctx.body = res
   }
 }
 
