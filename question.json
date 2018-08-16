@@ -1105,6 +1105,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hchr_hclr_104",
         "q": {
           "type": 4,
@@ -1219,6 +1227,14 @@
           "choices": ["room1r", 5]
         },
         "score": 5
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hchr_hclr_115",
         "q": {
@@ -1342,6 +1358,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hchr_hclr_126",
         "q": {
@@ -2564,6 +2588,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hchr_lchr_104",
         "q": {
           "type": 4,
@@ -2678,6 +2710,14 @@
           "choices": ["room1r", 5]
         },
         "score": 5
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hchr_lchr_115",
         "q": {
@@ -2801,6 +2841,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hchr_lchr_126",
         "q": {
@@ -3991,6 +4039,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hchr_lclr_104",
         "q": {
           "type": 4,
@@ -4105,6 +4161,14 @@
           "choices": ["room1r", 5]
         },
         "score": 5
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hchr_lclr_115",
         "q": {
@@ -4228,6 +4292,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hchr_lclr_126",
         "q": {
@@ -5404,6 +5476,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hclr_hchr_104",
         "q": {
           "type": 4,
@@ -5519,6 +5599,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hclr_hchr_115",
         "q": {
           "type": 4,
@@ -5633,6 +5721,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hclr_hchr_126",
         "q": {
@@ -6815,6 +6911,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hclr_lchr_104",
         "q": {
           "type": 4,
@@ -6930,6 +7034,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hclr_lchr_115",
         "q": {
           "type": 4,
@@ -7044,6 +7156,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hclr_lchr_126",
         "q": {
@@ -8194,6 +8314,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hclr_lclr_104",
         "q": {
           "type": 4,
@@ -8309,6 +8437,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "hclr_lclr_115",
         "q": {
           "type": 4,
@@ -8423,6 +8559,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "hclr_lclr_126",
         "q": {
@@ -9639,6 +9783,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lchr_hchr_104",
         "q": {
           "type": 4,
@@ -9762,6 +9914,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lchr_hchr_115",
         "q": {
           "type": 4,
@@ -9884,6 +10044,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "lchr_hchr_126",
         "q": {
@@ -11074,6 +11242,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lchr_hclr_104",
         "q": {
           "type": 4,
@@ -11197,6 +11373,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lchr_hclr_115",
         "q": {
           "type": 4,
@@ -11319,6 +11503,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "lchr_hclr_126",
         "q": {
@@ -12525,6 +12717,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lchr_lclr_104",
         "q": {
           "type": 4,
@@ -12648,6 +12848,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lchr_lclr_115",
         "q": {
           "type": 4,
@@ -12770,6 +12978,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "lchr_lclr_126",
         "q": {
@@ -13962,6 +14178,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lclr_hchr_104",
         "q": {
           "type": 4,
@@ -14077,6 +14301,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lclr_hchr_115",
         "q": {
           "type": 4,
@@ -14191,6 +14423,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "lclr_hchr_126",
         "q": {
@@ -15349,6 +15589,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lclr_hclr_104",
         "q": {
           "type": 4,
@@ -15464,6 +15712,14 @@
         },
         "score": 5
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lclr_hclr_115",
         "q": {
           "type": 4,
@@ -15578,6 +15834,14 @@
           "choices": ["room1r", 10]
         },
         "score": 10
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "lclr_hclr_126",
         "q": {
@@ -16784,6 +17048,14 @@
         },
         "score": 3
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lclr_lchr_104",
         "q": {
           "type": 4,
@@ -16898,6 +17170,14 @@
           "choices": ["room1r", 5]
         },
         "score": 5
+      }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
       }, {
         "id": "lclr_lchr_115",
         "q": {
@@ -17014,6 +17294,14 @@
         },
         "score": 10
       }, {
+        "id": null,
+        "q": {
+          "type": 5,
+          "title": "Test Phase",
+          "choices": null
+        },
+        "score": null
+      }, {
         "id": "lclr_lchr_126",
         "q": {
           "type": 4,
@@ -17085,5 +17373,5 @@
       }]
     ]
   ],
-  "logic_idx": [101, 112, 123]
+  "logic_idx": [2, 112, 123]
 }

@@ -3,6 +3,7 @@
 const Controller = require('egg').Controller;
 const fs = require('fs');
 var path = require("path");
+const tableName = 'answer';
 
 class HomeController extends Controller {
   async index() {
@@ -17,7 +18,7 @@ class HomeController extends Controller {
     data.random = JSON.stringify(data.random);
     const conn = await app.mysql.beginTransaction(); // 初始化事务
     try {
-      await conn.insert('answer', data);
+      await conn.insert(tableName, data);
       await conn.commit(); // 提交事务
       this.ctx.body = {
         msg: "success"
